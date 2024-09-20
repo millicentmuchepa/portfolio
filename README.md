@@ -11,7 +11,7 @@ text
 Email: (muchepa2@illinois.edu)[muchepa2@illinois.edu]
 
 ## Education
-
+e
 **University of Illinois at Urbana-Champaign, Gies College of Business**  
 Master of Science in Business Analytics | Expected Graduation: May 2025  
 - Gies merit-based scholarship recipient
